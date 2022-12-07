@@ -3,6 +3,7 @@ Sergey Govorunov
 <img width="120" alt="Photo" src="https://user-images.githubusercontent.com/94650535/206235610-46c8b821-62ea-4448-8d66-99052a1bfae2.png"> _Software Implementation & Project Management in IoT | B2B | SaaS_ 
 
 >I learned how to read electrical circuits and  teach students before I become a Software Implementation Manager in IoT and Telematics. Throughout my career I was trying to learn as much as possible to help machines, people & businesses become better version of themselves.
+
 ---
 
 Contact me
@@ -11,6 +12,7 @@ Contact me
 * [e-mail](mailto:govorunovs@gmail.com)
 * [telegram](http://t.me/sergeaux)
 * [discord](https://discord.com/channels/gose#9429) `gose#9429`
+
 ---
 
 Experience
@@ -46,16 +48,19 @@ _2012/01 - 2014/02 in Minsk, Belarus_
 
 * managed team to repair, adjust & calibrate automatics
 * diagnosed electromechanical faults
+
 ---
 
 Skills
 ---
+
 **Professional**   |**Languages**|**Frameworks** |**Tools**
 -------------------|--------------|--------------|------------
 project management |Python        |Seaborn       |Wialon
 team management    |JS            |React         |GitHub
 problem solving    |SQL           |Pandas        |MS Power BI
 data analysis      |              |Numpy         |Power Automate
+
 
 ---
 
@@ -70,6 +75,7 @@ _2013 — 2018 in Minsk, Belarus_
 
 _2007 — 2011 in Bobruisk, Belarus_
 * automatics engineer
+
 ---
 
 Languages
@@ -78,6 +84,7 @@ Languages
 * English - C1
 * French - A2
 * German - A1
+
 ---
 
 Hobbies
