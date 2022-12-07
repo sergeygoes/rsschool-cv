@@ -1,6 +1,7 @@
 Sergey Govorunov
 ===
-_Software Implementation & Project Management in IoT | B2B | SaaS_
+<img width="120" alt="Photo" src="https://user-images.githubusercontent.com/94650535/206235610-46c8b821-62ea-4448-8d66-99052a1bfae2.png"> _Software Implementation & Project Management in IoT | B2B | SaaS_ 
+
 >I learned how to read electrical circuits and  teach students before I become a Software Implementation Manager in IoT and Telematics. Throughout my career I was trying to learn as much as possible to help machines, people & businesses become better version of themselves.
 ---
 
