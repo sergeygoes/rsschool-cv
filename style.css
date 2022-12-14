@@ -1,11 +1,90 @@
-.photo{
-    height: 14em;
-    width: auto;
-}
-.mainBlock{
+* {
+    box-sizing: border-box;
+  }
+
+  .header{
+
+  }
+  .body{
+    min-height: 100vh;
+    pd: 0;
+    mg: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #4d2323;
+  }
+
+  .container{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: antiquewhite;;
-}
+    border: 1px solid red;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    }
+
+    .section-item a {
+        color: #829985;
+        text-decoration: none;  
+        transition: color 0.5s;
+      }
+
+      .section-item a:hover {
+        color: #4d2323;
+    }
+    
+    .section{
+
+    }
+    .main-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+    .section-title {
+        font-size: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        color: #829985;
+    }
+    .link {
+        text-decoration: none;
+        color: #829985;
+        transition: color 0.5s;
+    }
+      
+    .link:hover {
+        color: #5d7260;
+    }
+    
+    .section {
+        width: 50%;
+    }
+    
+    @media (max-width: 768px) {
+        .section {
+          width: 100%;
+        }
+      }
+
+
+
+
+
+
 
 .blockTitle{
     font-size: 100%;
@@ -17,10 +96,20 @@
     font-size: 90%;
 
 }
-
+.photo{
+    height: 200px;
+    width: auto;
+}
 .subtitle{
     font-size: 80%;
     font-style: italic;
+}
+
+
+
+.table{
+
+
 }
 
 .textList{
@@ -30,3 +119,6 @@
 .mainText{
 
 }
+html {
+    scroll-behavior: smooth; 
+  }
