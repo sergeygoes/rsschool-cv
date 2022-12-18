@@ -1,0 +1,160 @@
+
+* {
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Avenir Next LT Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #505050;
+  }
+
+main {
+  margin: 20px;
+}
+
+header {
+    background-color: #d54141;
+    display: block;
+    border-bottom: solid 0.5em #d54141;
+}
+
+#header-title {
+  text-align: center;
+  margin: 0%;
+  font-size: 5em;
+  font-family: 'Avenir Next LT Pro', sans-serif;  
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+#nav-list {
+  display: flex;
+  margin: 0 auto;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.nav-list-item{ 
+    margin: 0 auto;
+    padding: 10px auto;
+    line-height: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+    transition: .1s;
+}
+
+#wrap {
+    max-width: 1440px;
+    background-color: rgb(255, 253, 251);
+    margin: 0 auto;
+}
+
+#picture-profile {
+  margin-top: 20px;
+    margin-right: 20px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 20%;
+
+}
+
+.content-title {
+  margin-bottom: 0px;
+  font-weight: 500;
+}
+
+.secton-subt {
+  margin-bottom: 10px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.p-text {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #d54141;
+    font-size: 1em;
+    margin: 0 auto;
+}
+.section-content {
+  display: flex;
+  flex-direction: column;
+}
+.section-content-about {
+  display: flex;
+  flex-direction: row;
+}
+
+.section-list {
+  margin: 0;
+}
+
+.section-title {
+    margin-bottom: 0;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #d45f5f;
+    border-bottom: solid 3px #d54141;
+}
+pre {
+  margin: 0;
+}
+code {
+  margin: 0;
+}
+a {
+    text-decoration: none;
+    color: #050505;
+    transition: color 0.5s;
+}
+
+iframe {
+  width: max-content;
+}
+
+#f-logo {
+    width: 121px;
+    height: 45px;
+    margin: 20px;
+    background-image: url(assets/img/svg/rs_school_js.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.f-github, .f-date {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 45px;
+  padding: 20px;
+}
+
+a:hover {color:  rgb(214, 85, 85); text-decoration: underline;}
+li:hover {color: rgb(214, 85, 85);}
+.f-github:hover {color: #505050; text-decoration: underline;}
+
+
+
